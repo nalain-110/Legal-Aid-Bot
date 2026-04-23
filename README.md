@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Bilingual Support**: Works with English & Roman Urdu
 - **Smart Legal Analysis**: Identifies category, relevant Pakistani laws, and sections
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Technology                  |
 |-------------|-----------------------------|
@@ -28,11 +28,11 @@
 | Deployment  | Ready for Render / Railway  |
 
 ---
-## ⚠️ Disclaimer
+## Disclaimer
 Wakeel AI provides general legal information based on Pakistani laws.
 Users should always consult a licensed Pakistani lawyer for their specific cases.
 
-## ⭐ Show Your Support
+## Show Your Support
 If you like this project, please give it a star ⭐ on GitHub!
 Feel free to fork, improve, or suggest new features.
 
